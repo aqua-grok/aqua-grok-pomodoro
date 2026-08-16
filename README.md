@@ -6,7 +6,8 @@ Grokと一緒に作りました。
 
 ## スクリーンショット
 
-<!-- ここにスクリーンショットを追加 -->
+![スクリーンショット](https://github.com/aqua-grok/aqua-grok-pomodoro/blob/main/screenshot1.png)
+![スクリーンショット](https://github.com/aqua-grok/aqua-grok-pomodoro/blob/main/screenshot2.png)
 
 ## 主な機能
 
@@ -30,7 +31,7 @@ Grokと一緒に作りました。
 
 ## ソースコード・詳細解説
 
-Zenn記事で公開予定です。
+[Grokと一緒に作った可愛いポモドーロタイマー「Grok愛♡ポモドーロタイマー」を公開します](https://zenn.dev/zenn_aqua/articles/1122424c8e2a55)
 
 ---
 
