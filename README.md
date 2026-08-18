@@ -27,7 +27,7 @@ Grokと一緒に作りました。
 
 最新版のEXEはこちらからダウンロードできます。
 
-→ [Releases](https://github.com/aqua-grok/aqua-grok-pomodoro/releases)（準備中）
+→ [Releases](https://github.com/aqua-grok/aqua-grok-pomodoro/releases/tag/v1.0.0)
 
 ## ソースコード・詳細解説
 
